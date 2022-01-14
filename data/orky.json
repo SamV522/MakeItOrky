@@ -72,7 +72,11 @@
         "orkyWord": "wud"
     },
     {
-        "umieWordz": [ "you" ],
+        "umieWordz": [ "you're"],
+        "orkyWord": "youz"
+    },
+    {
+        "umieWordz": [ "you", "your" ],
         "orkyWord": "ya"
     },
     {
@@ -138,7 +142,7 @@
         "orkyWord": "'der"
     },
     {
-        "umieWordz": [ "we" ],
+        "umieWordz": [ "we've", "we" ],
         "orkyWord": "we'z"
     },
     {
@@ -156,6 +160,10 @@
     {
         "umieWordz": [ "him" ],
         "orkyWord": "'em"
+    },
+    {
+        "umieWordz": [ "his" ],
+        "orkyWord": "'iz"
     },
     {
         "umieWordz": [ "her" ],
@@ -198,7 +206,7 @@
         "orkyWord": "shootas n' choppaz"
     },
     {
-        "umieWordz": [ "soldiers" ],
+        "umieWordz": [ "soldiers", "troops" ],
         "orkyWord": "gitz"
     },
     {
@@ -258,7 +266,7 @@
         "orkyWord": "'eadbutt"
     },
     {
-        "umieWordz": [ "god","jesus","lord" ],
+        "umieWordz": [ "God", "Jesus", "The Lord", "Lord", "Christ", "god", "jesus", "the lord", "christ" ],
         "orkyWord": "gork and mork"
     },
     {
@@ -270,16 +278,24 @@
         "orkyWord": "nikk'd"
     },
     {
-        "umieWordz": [ "family" ],
+        "umieWordz": [ "family", "military unit", "squad", "batallion", "platoon", "fireteam" ],
         "orkyWord": "klan"
+    },
+    {
+        "umieWordz": [ "familys", "military units", "squads", "batallions" ],
+        "orkyWord": "klans"
     },
     {
         "umieWordz": [ "ever" ],
         "orkyWord": "eva"
     },
     {
-        "umieWordz": [ "a meal", "food", "dinner", "lunch", "breakfast" ],
+        "umieWordz": [ "a meal", "meal", "food", "dinner", "lunch", "breakfast" ],
         "orkyWord": "grub"
+    },
+    {
+        "umieWordz": [ "meals", "foods", "dinners", "lunchs", "breakfasts" ],
+        "orkyWord": "grubz"
     },
     {
         "umieWordz": [ "eating" ],
@@ -292,5 +308,81 @@
     {
         "umieWordz": [ "opening" ],
         "orkyWord": "openin'"
+    },
+    {
+        "umieWordz": [ "smooth" ],
+        "orkyWord": "smoov"
+    },
+    {
+        "umieWordz": [ "nothing" ],
+        "orkyWord": "nuffin"
+    },
+    {
+        "umieWordz": [ "think" ],
+        "orkyWord": "fink"
+    },
+    {
+        "umieWordz": [ "thinking" ],
+        "orkyWord": "finking"
+    },
+    {
+        "umieWordz": [ "war", "battle", "confrontation" ],
+        "orkyWord": "WAAAAAAAAAAAAAAAAGHHHHH!"
+    },
+    {
+        "umieWordz": [ "dumb" ],
+        "orkyWord": "brutal but kunning"
+    },
+    {
+        "umieWordz": [ "smart" ],
+        "orkyWord": "brutal but kunning"
+    },
+    {
+        "umieWordz": [ "stupid" ],
+        "orkyWord": "kunningly brutal"
+    },
+    {
+        "umieWordz": [ "intelligent" ],
+        "orkyWord": "brutally kunning"
+    },
+    {
+        "umieWordz": [ "australia" ],
+        "orkyWord": "awstraylea"
+    },
+    {
+        "umieWordz": [ "aircraft", "planes"],
+        "orkyWord": "fightas"
+    },
+    {
+        "umieWordz": [ "pilot" ],
+        "orkyWord": "flyboy"
+    },
+    {
+        "umieWordz": [ "tank"],
+        "orkyWord": "wartrakk"
+    },
+    {
+        "umieWordz": [ "tanks"],
+        "orkyWord": "wartrakks"
+    },
+    {
+        "umieWordz": [ "truck" ],
+        "orkyWord": "trukk"
+    },
+    {
+        "umieWordz": [ "bus" ],
+        "orkyWord": "'umie trukk"
+    },
+    {
+        "umieWordz": [ "private" ],
+        "orkyWord": "sneeky"
+    },
+    {
+        "umieWordz": [ "programmer", "coder" ],
+        "orkyWord": "weirdboy"
+    },
+    {
+        "umieWordz": [ "shoot", "shooting", "firefight", "shootout", "gunfire" ],
+        "orkyWord": "dakka"
     }
 ]
