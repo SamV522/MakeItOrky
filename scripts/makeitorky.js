@@ -18,13 +18,15 @@ fetch(chrome.runtime.getURL('/data/orky.json'))
     .then(function (orky) {
         const elements = document.querySelectorAll(elementsToReplace.join(', '));
         let reg = new RegExp();
+        let matches = []
         elements.forEach(element => {
             for (let index = 0; index < orky.length; index++) {
                 const orkieLex = orky[index];
                 orkieLex.umieWordz.forEach(umieWord => {
-                    if (element.innerHTML.includes(umieWord))
+                    reg = new RegExp(`\\b${umieWord}\\b`, 'ig');
+                    matches = element.innerHTML.match(reg)
+                    if (matches && matches.length > 0)
                     {  
-                        reg = new RegExp(`\\b${umieWord}\\b`, 'ig');
                         element.innerHTML = element.innerHTML.replace(reg, `${orkieLex.orkyWord}`);
                     }
                 });
