@@ -266,7 +266,31 @@
         "orkyWord": "nikk"
     },
     {
+        "umieWordz": [ "stole", "took" ],
+        "orkyWord": "nikk'd"
+    },
+    {
         "umieWordz": [ "family" ],
         "orkyWord": "klan"
+    },
+    {
+        "umieWordz": [ "ever" ],
+        "orkyWord": "eva"
+    },
+    {
+        "umieWordz": [ "a meal", "food", "dinner", "lunch", "breakfast" ],
+        "orkyWord": "grub"
+    },
+    {
+        "umieWordz": [ "eating" ],
+        "orkyWord": "munchin'"
+    },
+    {
+        "umieWordz": [ "secure" ],
+        "orkyWord": "safe"
+    },
+    {
+        "umieWordz": [ "opening" ],
+        "orkyWord": "openin'"
     }
 ]
