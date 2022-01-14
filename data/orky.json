@@ -1,15 +1,15 @@
 [
     {
-        "umieWordz": ["without"],
-        "orkyWord": "wivout"
+        "umieWordz": [ "being" ],
+        "orkyWord": "bein'"
     },
     {
-        "umieWordz": ["without"],
-        "orkyWord": "wivowt"
+        "umieWordz": [ "without" ],
+        "orkyWord": "wifowt"
     },
     {
-        "umieWordz": ["with"],
-        "orkyWord": "wiv"
+        "umieWordz": [ "with" ],
+        "orkyWord": "wit'"
     },
     {
         "umieWordz": [
@@ -19,40 +19,254 @@
         "orkyWord": "cum"
     },
     {
-        "umieWordz": ["some"],
+        "umieWordz": [ "some" ],
         "orkyWord": "sum"
     },
     {
         "umieWordz": [
             "boys",
+            "girls",
             "friends",
             "associates"
         ],
         "orkyWord":"boyz"
     },
     {
-        "umieWordz": [
-            " to "
-        ],
-        "orkyWord": " ta "
+        "umieWordz": [ "I'd" ],
+        "orkyWord": "I wud"
     },
     {
-        "umieWordz": [
-            "that"
-        ],
+        "umieWordz": [ "I'm, I am, Im" ],
+        "orkyWord": "I'z"
+    },
+    {
+        "umieWordz": [ "to" ],
+        "orkyWord": "ta"
+    },
+    {
+        "umieWordz": [ "is", "are" ],
+        "orkyWord": "iz"
+    },
+    {
+        "umieWordz": [ "in" ],
+        "orkyWord": "'n"
+    },
+    {
+        "umieWordz": [ "as" ],
+        "orkyWord": "az"
+    },
+    {
+        "umieWordz": [ "this" ],
+        "orkyWord": "dis"
+    },
+    {
+        "umieWordz": [ "that" ],
         "orkyWord": "dat"
     },
     {
-        "umieWordz": [ " of "],
-        "orkyWord": " ov "
+        "umieWordz": [ "of" ],
+        "orkyWord": "ov"
     },
     {
-        "umieWordz": ["would"],
+        "umieWordz": [ "would" ],
         "orkyWord": "wud"
-    }
+    },
     {
         "umieWordz": [ "you" ],
-        "orkyWord": "youz"
-
+        "orkyWord": "ya"
+    },
+    {
+        "umieWordz": [ "allow" ],
+        "orkyWord": "let"
+    },
+    {
+        "umieWordz":[ "allowing" ],
+        "orkyWord": "lowdin'"
+    },
+    {
+        "umieWordz": [
+            "them"
+        ],
+        "orkyWord": "dem"
+    },
+    {
+        "umieWordz": [
+            "the"
+        ],
+        "orkyWord": "da"
+    },
+    {
+        "umieWordz": [
+            "lets"
+        ],
+        "orkyWord": "let"
+    },
+    {
+        "umieWordz": [ "getting" ],
+        "orkyWord": "gettin'"
+    },
+    {
+        "umieWordz": [ "extension" ],
+        "orkyWord": "ekstenshun"
+    },
+    {
+        "umieWordz": [ "extensions" ],
+        "orkyWord": "ekstenshuns"
+    },
+    {
+        "umieWordz": [ "how" ],
+        "orkyWord": "'ow"
+    },
+    {
+        "umieWordz": [ "what", "which" ],
+        "orkyWord": "wot"
+    },
+    {
+        "umieWordz": [ "does" ],
+        "orkyWord": "duz"
+    },
+    {
+        "umieWordz": [ "then" ],
+        "orkyWord": "den"
+    },
+    {
+        "umieWordz": [ "over" ],
+        "orkyWord": "ova"
+    },
+    {
+        "umieWordz": [ "there" ],
+        "orkyWord": "'der"
+    },
+    {
+        "umieWordz": [ "we" ],
+        "orkyWord": "we'z"
+    },
+    {
+        "umieWordz": [ "they" ],
+        "orkyWord": "dey"
+    },
+    {
+        "umieWordz": [ "them" ],
+        "orkyWord": "dem"
+    },
+    {
+        "umieWordz": [ "he" ],
+        "orkyWord": "'e"
+    },
+    {
+        "umieWordz": [ "him" ],
+        "orkyWord": "'em"
+    },
+    {
+        "umieWordz": [ "her" ],
+        "orkyWord": "'er"
+    },
+    {
+        "umieWordz": [ "have" ],
+        "orkyWord": "ave"
+    },
+    {
+        "umieWordz": [ "having" ],
+        "orkyWord": "avin'"
+    },
+    {
+        "umieWordz": [ "has" ],
+        "orkyWord": "'az"
+    },
+    {
+        "umieWordz": [ "it's", "its" ],
+        "orkyWord": "itz"
+    },
+    {
+        "umieWordz": [ "human","person", "persons" ],
+        "orkyWord": "'umie"
+    },
+    {
+        "umieWordz": [ "humans","people","persons","humanity" ],
+        "orkyWord": "'umies"
+    },
+    {
+        "umieWordz": [ "great","good" ],
+        "orkyWord": "right propa"
+    },
+    {
+        "umieWordz": [ "other", "alternative" ],
+        "orkyWord": "otha"
+    },
+    {
+        "umieWordz": [ "weapons" ],
+        "orkyWord": "shootas n' choppaz"
+    },
+    {
+        "umieWordz": [ "soldiers" ],
+        "orkyWord": "gitz"
+    },
+    {
+        "umieWordz": [ "soldier", "git" ],
+        "orkyWord": "git"
+    },
+    {
+        "umieWordz": [ "rifle", "gun", "pistol" ],
+        "orkyWord": "shoota"
+    },
+    {
+        "umieWordz": [ "sword", "axe", "machete" ],
+        "orkyWord": "choppa"
+    },
+    {
+        "umieWordz": [ "after" ],
+        "orkyWord": "afta"
+    },
+    {
+        "umieWordz": [ "writing" ],
+        "orkyWord": "writin'"
+    },
+    {
+        "umieWordz": [ "whether" ],
+        "orkyWord": "wetha"
+    },
+    {
+        "umieWordz": [ "knowing" ],
+        "orkyWord": "nowin'"
+    },
+    {
+        "umieWordz": [ "thing" ],
+        "orkyWord": "fingy"
+    },
+    {
+        "umieWordz": [ "one" ],
+        "orkyWord": "wun"
+    },
+    {
+        "umieWordz": [ "was" ],
+        "orkyWord": "waz"
+    },
+    {
+        "umieWordz": [ "code", "coding", "programming", "scripting" ],
+        "orkyWord": "'umie fingy magic"
+    },
+    {
+        "umieWordz": [ "hard" ],
+        "orkyWord": "'ard"
+    },
+    {
+        "umieWordz": [ "head" ],
+        "orkyWord": "'ead"
+    },
+    {
+        "umieWordz": [ "headbutt" ],
+        "orkyWord": "'eadbutt"
+    },
+    {
+        "umieWordz": [ "god","jesus","lord" ],
+        "orkyWord": "gork and mork"
+    },
+    {
+        "umieWordz": [ "steal", "take" ],
+        "orkyWord": "nikk"
+    },
+    {
+        "umieWordz": [ "family" ],
+        "orkyWord": "klan"
     }
 ]

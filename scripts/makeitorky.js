@@ -10,21 +10,24 @@ const elementsToReplace = [
     'h7',
     'li',
     'td',
-    'caption',
-    'a'
+    'caption'
 ]
 
 fetch(chrome.runtime.getURL('/data/orky.json'))
     .then((resp) => resp.json())
     .then(function (orky) {
-        let bodyText = document.body.innerText
-        console.log(bodyText);
-        for (let index = 0; index < orky.length; index++) {
-            const element = orky[index];
-            element.umieWordz.forEach(umieWord => {
-                bodyText = bodyText.replace(umieWord, element.orkyWord);
-            });
-        }
-        console.log(bodyText);
-        document.body.innerText = bodyText;
+        const elements = document.querySelectorAll(elementsToReplace.join(', '));
+        let reg = new RegExp();
+        elements.forEach(element => {
+            for (let index = 0; index < orky.length; index++) {
+                const orkieLex = orky[index];
+                orkieLex.umieWordz.forEach(umieWord => {
+                    if (element.innerHTML.includes(umieWord))
+                    {  
+                        reg = new RegExp(`\\b${umieWord}\\b`, 'ig');
+                        element.innerHTML = element.innerHTML.replace(reg, `${orkieLex.orkyWord}`);
+                    }
+                });
+            }
+        });
     });
