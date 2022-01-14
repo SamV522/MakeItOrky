@@ -1,0 +1,58 @@
+[
+    {
+        "umieWordz": ["without"],
+        "orkyWord": "wivout"
+    },
+    {
+        "umieWordz": ["without"],
+        "orkyWord": "wivowt"
+    },
+    {
+        "umieWordz": ["with"],
+        "orkyWord": "wiv"
+    },
+    {
+        "umieWordz": [
+            "come",
+            "came"
+        ],
+        "orkyWord": "cum"
+    },
+    {
+        "umieWordz": ["some"],
+        "orkyWord": "sum"
+    },
+    {
+        "umieWordz": [
+            "boys",
+            "friends",
+            "associates"
+        ],
+        "orkyWord":"boyz"
+    },
+    {
+        "umieWordz": [
+            " to "
+        ],
+        "orkyWord": " ta "
+    },
+    {
+        "umieWordz": [
+            "that"
+        ],
+        "orkyWord": "dat"
+    },
+    {
+        "umieWordz": [ " of "],
+        "orkyWord": " ov "
+    },
+    {
+        "umieWordz": ["would"],
+        "orkyWord": "wud"
+    }
+    {
+        "umieWordz": [ "you" ],
+        "orkyWord": "youz"
+
+    }
+]

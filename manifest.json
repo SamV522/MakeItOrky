@@ -1,0 +1,35 @@
+{
+    "name": "Make it Orky",
+    "description": "An x'tenshun ta translate fings into orky",
+    "version": "1.1",
+    "manifest_version": 3,
+    "permissions": [
+        "contextMenus",
+        "storage",
+        "declarativeContent",
+        "tabs",
+        "webNavigation"
+    ],
+    "icons": {
+        "16": "icons/icon-bitty.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["http://*/*", "https://*/*"],
+            "js": ["scripts/makeitorky.js"]
+        }
+    ],
+    "action": {
+        "browser_style": true,
+        "default_icon": {
+            "64": "icons/icon-small.png"
+        },
+        "default_title": "WAAAAAAAAGH!"
+    },
+    "web_accessible_resources": [
+        {
+            "resources": ["data/orky.json"],
+            "matches": ["http://*/*","https://*/*"]
+        }
+    ]
+}
