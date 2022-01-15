@@ -80,7 +80,7 @@
         "orkyWord": "ya"
     },
     {
-        "umieWordz": [ "allow" ],
+        "umieWordz": [ "allow", "enable" ],
         "orkyWord": "let"
     },
     {
@@ -214,8 +214,8 @@
         "orkyWord": "right propa"
     },
     {
-        "umieWordz": [ "good" ],
-        "orkyWord": [ "orky "]
+        "umieWordz": [ "good", "honourable" ],
+        "orkyWord": [ "Orky"]
     },
     {
         "umieWordz": [ "other", "alternative" ],
@@ -260,6 +260,10 @@
     {
         "umieWordz": [ "thing" ],
         "orkyWord": "fingy"
+    },
+    {
+        "umieWordz": [ "things", "issues" ],
+        "orkyWord": "fingys"
     },
     {
         "umieWordz": [ "one" ],
@@ -474,7 +478,7 @@
         "orkyWord": "mefod"
     },
     {
-        "umieWordz": [ "king", "queen" ],
+        "umieWordz": [ "king", "queen", "monarch" ],
         "orkyWord": "Warlord"
     },
     {
@@ -524,5 +528,21 @@
     {
         "umieWordz": [ "pandemic" ],
         "orkyWord": "big groggy"
+    },
+    {
+        "umieWordz": [ "crown" ],
+        "orkyWord": "Krown"
+    },
+    {
+        "umieWordz": [ "peace" ],
+        "orkyWord": "no fightin'"
+    },
+    {
+        "umieWordz": [ "royal" ],
+        "orkyWord": "Orkiest"
+    },
+    {
+        "umieWordz": ["authority"],
+        "orkyWord": "orfority"
     }
 ]
