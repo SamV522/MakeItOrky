@@ -73,7 +73,7 @@
     },
     {
         "umieWordz": [ "you're"],
-        "orkyWord": "youz"
+        "orkyWord": "youz iz"
     },
     {
         "umieWordz": [ "you", "your" ],
@@ -100,6 +100,10 @@
         "orkyWord": "da"
     },
     {
+        "umieWordz": ["these"],
+        "orkyWord": "deez"
+    },
+    {
         "umieWordz": [
             "lets"
         ],
@@ -108,6 +112,10 @@
     {
         "umieWordz": [ "getting" ],
         "orkyWord": "gettin'"
+    },
+    {
+        "umieWordz": ["reaching"],
+        "orkyWord": "gettin ta"
     },
     {
         "umieWordz": [ "extension" ],
@@ -130,7 +138,7 @@
         "orkyWord": "duz"
     },
     {
-        "umieWordz": [ "then" ],
+        "umieWordz": [ "then", "than" ],
         "orkyWord": "den"
     },
     {
@@ -144,6 +152,14 @@
     {
         "umieWordz": [ "we've", "we" ],
         "orkyWord": "we'z"
+    },
+    {
+        "umieWordz": [ "whose" ],
+        "orkyWord": "'ooze"
+    },
+    {
+        "umieWordz": [ "who" ],
+        "orkyWord": "oo"
     },
     {
         "umieWordz": [ "they" ],
@@ -210,7 +226,7 @@
         "orkyWord": "gitz"
     },
     {
-        "umieWordz": [ "soldier", "git" ],
+        "umieWordz": [ "soldier", "troop" ],
         "orkyWord": "git"
     },
     {
@@ -278,7 +294,7 @@
         "orkyWord": "nikk'd"
     },
     {
-        "umieWordz": [ "family", "military unit", "squad", "batallion", "platoon", "fireteam" ],
+        "umieWordz": [ "family", "military unit", "squad", "batallion", "platoon", "fireteam", "organization", "organisation" ],
         "orkyWord": "klan"
     },
     {
@@ -382,7 +398,51 @@
         "orkyWord": "weirdboy"
     },
     {
-        "umieWordz": [ "shoot", "shooting", "firefight", "shootout", "gunfire" ],
+        "umieWordz": [ "shoot", "shooting", "firefight", "shootout", "gunfire", "gunner" ],
         "orkyWord": "dakka"
+    },
+    {
+        "umieWordz": [ "shot" ],
+        "orkyWord": "dakka'd"
+    },
+    {
+        "umieWordz": [ "anything" ],
+        "orkyWord": "anyting"
+    },
+    {
+        "umieWordz": [ "fast" ],
+        "orkyWord": "speedy like"
+    },
+    {
+        "umieWordz": [ "weather" ],
+        "orkyWord": "weva"
+    },
+    {
+        "umieWordz": [ "images", "pictures", "photos" ],
+        "orkyWord": "pikchas"
+    },
+    {
+        "umieWordz": [ "image", "picture", "photo" ],
+        "orkyWord": "pikcha"
+    },
+    {
+        "umieWordz": [ "holding" ],
+        "orkyWord": "'oldin"
+    },
+    {
+        "umieWordz": ["hold"],
+        "orkyWord": "'old"
+    },
+    {
+        "umieWordz": [ "harmful" ],
+        "orkyWord": "'armful"
+    },
+    {
+        "umieWordz": [ "harm" ],
+        "orkyWord": "'arm"
+    },
+    {
+        "umieWordz": [ "method" ],
+        "orkyWord": "mefod"
     }
 ]
