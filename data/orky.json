@@ -154,7 +154,7 @@
         "orkyWord": "we'z"
     },
     {
-        "umieWordz": [ "whose" ],
+        "umieWordz": [ "whose", "whom" ],
         "orkyWord": "'ooze"
     },
     {
@@ -506,7 +506,23 @@
         "orkyWord": "Nobz"
     },
     {
-        "umieWordz": [ "attorney-general", "attorney general" ],
+        "umieWordz": [ "attorney-general", "attorney general", "governor-general", "governor general" ],
         "orkyWord": "Chieftan"
+    },
+    {
+        "umieWordz": [ "attorney-generals", "attorney generals", "governor-generals", "governor generals"  ],
+        "orkyWord": "Chieftans"
+    },
+    {
+        "umieWordz": [ "government" ],
+        "orkyWord": "Guvamint"
+    },
+    {
+        "umieWordz": ["governments"],
+        "orkyWord": "guvamints"
+    },
+    {
+        "umieWordz": [ "pandemic" ],
+        "orkyWord": "big groggy"
     }
 ]
