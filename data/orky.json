@@ -36,7 +36,7 @@
         "orkyWord": "I wud"
     },
     {
-        "umieWordz": [ "I'm, I am, Im" ],
+        "umieWordz": [ "I'm, I am, Im, I'll" ],
         "orkyWord": "I'z"
     },
     {
@@ -159,7 +159,7 @@
     },
     {
         "umieWordz": [ "who" ],
-        "orkyWord": "oo"
+        "orkyWord": "'oo"
     },
     {
         "umieWordz": [ "they" ],
@@ -202,16 +202,20 @@
         "orkyWord": "itz"
     },
     {
-        "umieWordz": [ "human","person", "persons" ],
+        "umieWordz": [ "human","person", "person",  "player"],
         "orkyWord": "'umie"
     },
     {
-        "umieWordz": [ "humans","people","persons","humanity" ],
+        "umieWordz": [ "humans","people","persons","humanity", "players" ],
         "orkyWord": "'umies"
     },
     {
-        "umieWordz": [ "great","good" ],
+        "umieWordz": [ "great" ],
         "orkyWord": "right propa"
+    },
+    {
+        "umieWordz": [ "good" ],
+        "orkyWord": [ "orky "]
     },
     {
         "umieWordz": [ "other", "alternative" ],
@@ -222,11 +226,11 @@
         "orkyWord": "shootas n' choppaz"
     },
     {
-        "umieWordz": [ "soldiers", "troops" ],
+        "umieWordz": [ "soldiers", "troops", "criminals", "employees", "workers", "monsters" ],
         "orkyWord": "gitz"
     },
     {
-        "umieWordz": [ "soldier", "troop" ],
+        "umieWordz": [ "soldier", "troop", "criminal", "employee", "worker", "monster" ],
         "orkyWord": "git"
     },
     {
@@ -286,19 +290,39 @@
         "orkyWord": "gork and mork"
     },
     {
-        "umieWordz": [ "steal", "take" ],
+        "umieWordz": [ "steal" ],
         "orkyWord": "nikk"
     },
     {
-        "umieWordz": [ "stole", "took" ],
+        "umieWordz": [ "stole" ],
         "orkyWord": "nikk'd"
     },
     {
-        "umieWordz": [ "family", "military unit", "squad", "batallion", "platoon", "fireteam", "organization", "organisation" ],
+        "umieWordz": [ 
+            "family",
+            "military unit",
+            "squad",
+            "batallion",
+            "platoon",
+            "fireteam",
+            "organization",
+            "organisation",
+            "business" 
+        ],
         "orkyWord": "klan"
     },
     {
-        "umieWordz": [ "familys", "military units", "squads", "batallions" ],
+        "umieWordz": [ 
+            "familys",
+            "military units",
+            "squads",
+            "batallions",
+            "platoons",
+            "fireteams",
+            "organizations",
+            "organisations",
+            "businesses"
+        ],
         "orkyWord": "klans"
     },
     {
@@ -363,7 +387,11 @@
     },
     {
         "umieWordz": [ "australia" ],
-        "orkyWord": "awstraylea"
+        "orkyWord": "'Ostraya"
+    },
+    {
+        "umieWordz": [ "australian" ],
+        "orkyWord": "'Ostrayan"
     },
     {
         "umieWordz": [ "aircraft", "planes"],
@@ -444,5 +472,41 @@
     {
         "umieWordz": [ "method" ],
         "orkyWord": "mefod"
+    },
+    {
+        "umieWordz": [ "king", "queen" ],
+        "orkyWord": "Warlord"
+    },
+    {
+        "umieWordz": [ "world leader", "prime minister", "president" ],
+        "orkyWord": "Warboss"
+    },
+    {
+        "umieWordz": [ "world leaders", "prime ministers", "presidents" ],
+        "orkyWord": "Warbosses"
+    },
+    {
+        "umieWordz": [ "chief minister" ],
+        "orkyWord": "Nob'y Nob"
+    },
+    {
+        "umieWordz": [ "chief ministers" ],
+        "orkyWord": "Nob'y Nobz"
+    },
+    {
+        "umieWordz": [ "ministers", "secretarys", "senators", "premiers"],
+        "orkyWord": "Nobz"
+    },
+    {
+        "umieWordz": [ "minister", "secretary", "senator", "premier"],
+        "orkyWord": "Nob"
+    },
+    {
+        "umieWordz": [ "ministers", "secretarys", "senators", "premiers", "representatives"],
+        "orkyWord": "Nobz"
+    },
+    {
+        "umieWordz": [ "attorney-general", "attorney general" ],
+        "orkyWord": "Chieftan"
     }
 ]
