@@ -76,8 +76,12 @@
         "orkyWord": "youz iz"
     },
     {
-        "umieWordz": [ "you", "your" ],
+        "umieWordz": [ "you" ],
         "orkyWord": "ya"
+    },
+    {
+        "umieWordz": [ "your" ],
+        "orkyWord": "yer"
     },
     {
         "umieWordz": [ "allow", "enable" ],
@@ -330,8 +334,20 @@
         "orkyWord": "klans"
     },
     {
+        "umieWordz": [ "everyone" ],
+        "orkyWord": "evreewun"
+    },
+    {
         "umieWordz": [ "ever" ],
         "orkyWord": "eva"
+    },
+    {
+        "umieWordz": [ "about" ],
+        "orkyWord": "'bout"
+    },
+    {
+        "umieWordz": [ "talking" ],
+        "orkyWord": "yappin"
     },
     {
         "umieWordz": [ "a meal", "meal", "food", "dinner", "lunch", "breakfast" ],
@@ -544,5 +560,17 @@
     {
         "umieWordz": ["authority"],
         "orkyWord": "orfority"
+    },
+    {
+        "umieWordz": ["death"],
+        "orkyWord": "deff"
+    },
+    {
+        "umieWordz": ["exterminating"],
+        "orkyWord": "'xterminating'"
+    },
+    {
+        "umieWordz": ["enough"],
+        "orkyWord": "enuff"
     }
 ]
